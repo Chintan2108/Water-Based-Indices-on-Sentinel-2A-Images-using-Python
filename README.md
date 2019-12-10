@@ -6,7 +6,7 @@ This is an explortion of automatic feature detection in satellite imagery, using
 
 ## Objective 
 
-This is a detailed study in itself, with the overall objective of (**comparing the nature of water bodies and the surrounding areas using various water quality indices, and finally conclude the behaviour of each index.**)
+This is a detailed study in itself, with the overall objective of **comparing the nature of water bodies and the surrounding areas using various water quality indices, and finally conclude the behaviour of each index.**
 
 Further, the sub-objectives are as listed below: 
 - To explore various temporal datasets
@@ -32,7 +32,7 @@ Famously known as *Florida's Inland Sea*, this is the largest freshwater lake in
 
 For this study, level 2 images from Sentinel 2A were used. The Copernicus Mission is open-source and provides the latest captures for civil use on their [Open Data Hub (Copernicus DHUS)](https://scihub.copernicus.eu/dhus/#/home).
 
-A (python API)[https://sentinelsat.readthedocs.io/en/stable/] for this platform is also available, which allows users to query the database and download products within the python script itself. 
+A [python API](https://sentinelsat.readthedocs.io/en/stable/) for this platform is also available, which allows users to query the database and download products within the python script itself. 
 
 ## Results
 
