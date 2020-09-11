@@ -4,6 +4,8 @@
 
 This is an explortion of automatic feature detection in satellite imagery, using Python and the opensource remote sensing available in Python. Rasterio, Geospatial Data Abstraction Library, geopandas, shapely are some of the many such libraries which are used in the development of this model. 
 
+* [Project Report](https://github.com/Chintan2108/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/blob/master/Reports/Implementation%20and%20Comparison%20of%20Water%20Based%20Indices_Python%20Pilot%20Project.pdf)
+
 ## Objective 
 
 This is a detailed study in itself, with the overall objective of **comparing the nature of water bodies and the surrounding areas using various water quality indices, and finally conclude the behaviour of each index.**
