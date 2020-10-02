@@ -50,6 +50,8 @@ The feature extraction kernel for water body detection in the satelite imagery o
 
 ## Contribution
 
+[![Gitter](https://badges.gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community.svg)](https://gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/blob/master/CODE_OF_CONDUCT.md).
 
 ## References
