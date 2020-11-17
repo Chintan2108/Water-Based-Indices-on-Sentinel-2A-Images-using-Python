@@ -68,6 +68,41 @@ For this study, the Landsat 8 images for the same regions were used for which le
 
 <img src="misc/landsat8/ndwi_lmc_okeechobee.jpg" width="400">
 
+## Algorithm of performing the Thresholding on Sentinel2A indices 
+
+- Converted the TIFF file corrosponding to the interested intex into a gray scale image
+
+- Plotted the graph of number of pixels Vs. gray scale to find the value of the threshold
+
+- Generated the binary image with respect to the threshold obtained in the prevoius step
+
+## Results obtained by the implementation of the algorithm
+
+- NDWI(leaf moisture content) for Chilikha, Orissa, India
+
+<img src="misc/thresholding_sentinel2A/chilikha_ndwi_lmc_t144.PNG" width="400">
+
+- NDWI(Water content) for Chilikha, Orissa, India
+
+<img src="misc/thresholding_sentinel2A/chilikha_ndwi_wc_t130.PNG" width="400">
+
+- NDCI for Chilikha, Orissa, India
+
+<img src="misc/thresholding_sentinel2A/chilikha_ndci_t167.PNG" width="400">
+
+- NDWI(leaf moisture content) for Okeechobee, Florida, US
+
+<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_lmc_t194.PNG" width="400">
+
+- NDWI(Water content) for Okeechobee, Florida, US
+
+<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_wc_t110.PNG" width="400">
+
+- NDWI(leaf moisture content) for Okeechobee, Florida, US
+
+<img src="misc/thresholding_sentinel2A/okeechobee_ndci_t150.PNG" width="400">
+
+
 ## Contribution
 
 [![Gitter](https://badges.gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community.svg)](https://gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
