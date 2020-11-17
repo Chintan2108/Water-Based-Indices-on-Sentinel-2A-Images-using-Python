@@ -48,9 +48,39 @@ The feature extraction kernel for water body detection in the satelite imagery o
 
 ![Okeechobee Lake](misc/okeechobee_rsult.PNG)
 
+## Results on the Landsat 8 data
+
+For this study, the Landsat 8 images for the same regions were used for which level 2 correction was to be performed. Following images for the NDWI indices for water content and leaf moisture content is calculated and generated:
+
+- NDWI(water content) for Chilikha Lagoon, Orissa, India
+
+<img src="misc/landsat8/ndwi_wc_chilika.jpg" width="400">
+
+- NDWI(leaf moisture content) for Chilikha Lagoon, Orissa, India
+
+<img src="misc/landsat8/ndwi_lmc_chilika.jpg" width="400">
+
+- NDWI(water content) for Okeechobee Lake, Florida, US
+
+<img src="misc/landsat8/ndwi_wc_okeechobee.jpg" width="400">
+
+- NDWI(leaf moisture content) for Okeechobee Lake, Florida, US
+
+<img src="misc/landsat8/ndwi_lmc_okeechobee.jpg" width="400">
+
 ## Contribution
 
+[![Gitter](https://badges.gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community.svg)](https://gitter.im/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 Please feel free to raise issues and fix any existing ones. Further details can be found in our [code of conduct](https://github.com/Chintan2108/Water-Based-Indices-on-Sentinel-2A-Images-using-Python/blob/master/CODE_OF_CONDUCT.md).
+
+### While making a PR, please make sure you:
+- [ ] Always start your PR description with "Fixes #issue_number", if you're fixing an issue.
+- [ ] Briefly mention the purpose of the PR, along with the tools/libraries you have used. It would be great if you could be version specific.
+- [ ] Briefly mention what logic you used to implement the changes/upgrades.
+- [ ] Provide in-code review comments on GitHub to highlight specific LOC if deemed necessary.
+- [ ] Please provide snapshots if deemed necessary.
+- [ ] Update readme if required.
 
 ## References
 
