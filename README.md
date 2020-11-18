@@ -80,27 +80,27 @@ For this study, the Landsat 8 images for the same regions were used for which le
 
 - NDWI(leaf moisture content) for Chilikha, Orissa, India
 
-<img src="misc/thresholding_sentinel2A/chilikha_ndwi_lmc_t144.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/chilikha_ndwi_lmc_t144.png" width="400">
 
 - NDWI(Water content) for Chilikha, Orissa, India
 
-<img src="misc/thresholding_sentinel2A/chilikha_ndwi_wc_t130.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/chilikha_ndwi_wc_t130.png" width="400">
 
 - NDCI for Chilikha, Orissa, India
 
-<img src="misc/thresholding_sentinel2A/chilikha_ndci_t167.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/chilikha_ndci_t167.png" width="400">
 
 - NDWI(leaf moisture content) for Okeechobee, Florida, US
 
-<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_lmc_t194.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_lmc_t194.png" width="400">
 
 - NDWI(Water content) for Okeechobee, Florida, US
 
-<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_wc_t110.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/okeechobee_ndwi_wc_t110.png" width="400">
 
 - NDWI(leaf moisture content) for Okeechobee, Florida, US
 
-<img src="misc/thresholding_sentinel2A/okeechobee_ndci_t150.PNG" width="400">
+<img src="misc/thresholding_sentinel2A/okeechobee_ndci_t150.png" width="400">
 
 
 ## Contribution
