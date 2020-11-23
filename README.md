@@ -102,6 +102,33 @@ For this study, the Landsat 8 images for the same regions were used for which le
 
 <img src="misc/thresholding_sentinel2A/okeechobee_ndci_t150.png" width="400">
 
+## Spectral Modulation of Multi-Spectral Images
+
+Algorithm for Spectral Modulation:
+
+- Supervised classification is performed for multispectral images.
+- Different classes are identified by a modulation function.
+- Suppose there are 4 bands- b1,b2,b3,b4 and pattern as (120,110,100,90) then modulation pattern is:'222222' based on (120>110,120>100,120>90,110>100,110>90,100>90)
+- '2' represents preceeding band value is greater
+- '1' represents succeeding band value is greater
+- '0' represents both band values are equal
+- Each pixel vector of size 4 is identified in underlying classes since only 4 bands are there in image. 
+
+## Results obtained using Spectral Modulation on Landsat 8 dataset
+
+-  LS8_TM_swir_water__Chilikha for Chilikha,Orissa
+<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Chilikha.png" width="400">
+
+- LS8_TM_all_classes__Chilikha for Chilikha, Orissa
+<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Chilikha.png" width="400">
+
+- LS8_TM_swir_water__Okeechobe for Okeechobe,Florida US
+<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Okeechobe.png" width="400">
+ - LS8_TM_all_classes__Okeechobe for Okeechobe, Florida US
+<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Okeechobe.png" width="400">
+
+
+
 
 ## Contribution
 
