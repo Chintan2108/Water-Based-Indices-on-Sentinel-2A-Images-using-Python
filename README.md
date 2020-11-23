@@ -117,15 +117,15 @@ Algorithm for Spectral Modulation:
 ## Results obtained using Spectral Modulation on Landsat 8 dataset
 
 -  LS8_TM_swir_water__Chilikha for Chilikha,Orissa
-<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Chilikha.png" width="400">
+<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Chilikha.PNG" width="400">
 
 - LS8_TM_all_classes__Chilikha for Chilikha, Orissa
-<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Chilikha.png" width="400">
+<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Chilikha.PNG" width="400">
 
 - LS8_TM_swir_water__Okeechobe for Okeechobe,Florida US
-<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Okeechobe.png" width="400">
+<img src="misc/spectral_modulation_landsat8/LS8_TM_swir_water__Okeechobe.PNG" width="400">
  - LS8_TM_all_classes__Okeechobe for Okeechobe, Florida US
-<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Okeechobe.png" width="400">
+<img src="misc/spectral_modulation_landsat8/LS8_TM_all_classes__Okeechobe.PNG" width="400">
 
 
 
