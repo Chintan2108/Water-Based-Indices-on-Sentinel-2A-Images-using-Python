@@ -130,16 +130,16 @@ Algorithm for Spectral Modulation:
 ## Results obtained using Spectral Modulation on Sentinel 2A dataset
 
 -  Sentinel2A_TM_swir_water__Chilikha for Chilikha,Orissa
-<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_swir_water__Chilikha_Sentinel.PNG" width="400">
+<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_swir_water__Chilikha_Sentinel.png" width="400">
 
 -  Sentinel2A_TM_all_classes__Chilikha for Chilikha, Orissa
-<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_all_classes__Chilikha_Sentinel.PNG" width="400">
+<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_all_classes__Chilikha_Sentinel.png" width="400">
 
 - Sentinel2A_TM_swir_water__Okeechobe for Okeechobe,Florida US
-<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_swir_water__Okeechobe_Sentinel.PNG" width="400">
+<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_swir_water__Okeechobe_Sentinel.png" width="400">
 
 - Sentinel2A_TM_all_classes__Okeechobe for Okeechobe, Florida US
-<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_all_classes__Okeechobe_Sentinel.PNG" width="400">
+<img src="misc/spectral_modulation_sentinel2A/Sentinel2A_TM_all_classes__Okeechobe_Sentinel.png" width="400">
 
 ## Contribution
 
